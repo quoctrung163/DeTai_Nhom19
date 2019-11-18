@@ -1,5 +1,5 @@
 # DeTai Nhom19 Mon Lap Trinh Android
-- Gom cac thanh vien
+- Gồm các thành viên
 
 | Họ và tên     | Phân Công    |
 | --------- | -------- | 
