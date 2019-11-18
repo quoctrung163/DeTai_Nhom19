@@ -3,7 +3,7 @@
 
 | Họ và tên     | Phân Công    |
 | --------- | -------- | 
-| Phan Quốc Trung      | Làm phần đăng nhập, đăng xuất, đăng kí, reset password, tự động đăng nhập khi đã đăng nhập (Sử dụng FireBase), thiết kế trang home cho phần hiển thị các chức năng của Đề Tài  |
+| Phan Quốc Trung      | Làm phần đăng nhập, đăng xuất, đăng kí, reset password,(Sử dụng FireBase), thiết kế trang home cho phần hiển thị các chức năng của Đề Tài  |
 | Huỳnh Lê Hữu Thành     | Làm chức năng nghe nhạc     |   
 | Nguyễn Đức Trọng | Làm chức năng vẽ    |
 | Lê Anh Trí | Làm chức năng trò chơi    |
