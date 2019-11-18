@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LION - Games, Music &amp; Draw</string>
+    <string name="welcome">Chào mừng bạn</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="re_password">Nhập lại mật khẩu</string>
+    <string name="already_have_account">Đã có mật khẩu? Đăng nhập</string>
+    <string name="sign_in">vào ngay</string>
+    <string name="create_account">Chưa có tài khoản? Đăng kí ngay!</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="dashboard">Bảng điều khiển</string>
+    <string name="items">4 Tiện ích</string>
+    <string name="game">Trò chơi</string>
+    <string name="music">Nhạc</string>
+    <string name="draw">Vẽ</string>
+    <string name="checkemail">Vui lòng kiểm tra thư trong email \n để hoàn tất việc tạo tài khoản!</string>
+    <string name="forgotpassword">Quên mật khẩu?</string>
+    <string name="resetpass">Reset Pass</string>
+</resources>

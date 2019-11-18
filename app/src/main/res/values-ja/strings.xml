@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LION - Games, Music &amp; Draw</string>
+    <string name="welcome">ようこそ</string>
+    <string name="sign_up">サインアップ</string>
+    <string name="email">Email</string>
+    <string name="password">パスワード</string>
+    <string name="re_password">再パスワード</string>
+    <string name="already_have_account">すでにアカウントをお持ちですか？ サインイン</string>
+    <string name="sign_in">サインイン</string>
+    <string name="create_account">登録しない?ここでサインアップ！</string>
+    <string name="logout">ログアウト</string>
+    <string name="dashboard">私のダッシュボード</string>
+    <string name="items">4アイテム</string>
+    <string name="game">ゲーム</string>
+    <string name="music">音楽</string>
+    <string name="draw">ドロー</string>
+    <string name="checkemail">メールを確認してください \n アカウントの作成を完了する!</string>
+    <string name="forgotpassword">パスワードをお忘れですか?</string>
+    <string name="resetpass">Reset Pass</string>
+</resources>

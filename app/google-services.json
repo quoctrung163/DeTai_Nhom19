@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368809925906",
+    "firebase_url": "https://detai-android-nhom19-1aea0.firebaseio.com",
+    "project_id": "detai-android-nhom19-1aea0",
+    "storage_bucket": "detai-android-nhom19-1aea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368809925906:android:5afabdd90c750b970167cb",
+        "android_client_info": {
+          "package_name": "detai.nhom19.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368809925906-e4ue5d3q14kcrblk7uvl0cm0i7cg0hdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnoJ-UYTF_JWfv3uQAuXEutt8YhoAQ-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368809925906-e4ue5d3q14kcrblk7uvl0cm0i7cg0hdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
