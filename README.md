@@ -7,3 +7,6 @@
 | Huỳnh Lê Hữu Thành     | Làm chức năng nghe nhạc     |   
 | Nguyễn Đức Trọng | Làm chức năng vẽ    |
 | Lê Anh Trí | Làm chức năng trò chơi    |
+
+
+- Link Download App: https://github.com/miyucoder/DeTai_Nhom19/releases
